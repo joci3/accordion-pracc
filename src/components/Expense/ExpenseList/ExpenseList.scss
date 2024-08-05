@@ -1,0 +1,18 @@
+.list {
+  background-color: rgb(235, 235, 235);
+}
+
+.list-item {
+  display: flex;
+  width: 100%;
+  padding: 8px 20px;
+  gap: 16px;
+  font-size: 12px;
+
+  &__shop {
+    margin-right: auto;
+  }
+  &__amount {
+    margin-right: 40px;
+  }
+}

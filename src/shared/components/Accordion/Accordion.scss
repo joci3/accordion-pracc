@@ -1,0 +1,20 @@
+.accordion {
+  &__headline {
+    display: flex;
+    width: 100%;
+    &:hover {
+      background-color: rgb(240, 240, 240);
+      cursor: pointer;
+    }
+  }
+
+  &__arrow {
+    align-self: center;
+    margin-right: 12px;
+  }
+
+  &__content {
+    width: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+}

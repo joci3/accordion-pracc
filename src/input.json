@@ -1,0 +1,191 @@
+[
+  {
+    "id": "a1b2c3",
+    "description": "Groceries",
+    "category": "Food",
+    "currency": "USD",
+    "shop": "Local Market",
+    "date": 1704386200000,
+    "amount": 50.25
+  },
+  {
+    "id": "d4e5f6",
+    "description": "Dinner with friends",
+    "category": "Food",
+    "currency": "EUR",
+    "shop": "Italian Restaurant",
+    "date": 1708183500000,
+    "amount": 80.75
+  },
+  {
+    "id": "g7h8i9",
+    "description": "Monthly utilities",
+    "category": "Bills",
+    "currency": "USD",
+    "shop": "Utility Company",
+    "date": 1705926400000,
+    "amount": 120.0
+  },
+  {
+    "id": "j1k2l3",
+    "description": "New shoes",
+    "category": "Clothing",
+    "currency": "USD",
+    "shop": "Footwear Store",
+    "date": 1679143200000,
+    "amount": 65.5
+  },
+  {
+    "id": "m4n5o6",
+    "description": "Tech gadgets",
+    "category": "Electronics",
+    "currency": "USD",
+    "shop": "Electronics Superstore",
+    "date": 1707315400000,
+    "amount": 350.0
+  },
+  {
+    "id": "p7q8r9",
+    "description": "Office supplies",
+    "category": "Office",
+    "currency": "USD",
+    "shop": "Stationery Shop",
+    "date": 1705225200000,
+    "amount": 30.8
+  },
+  {
+    "id": "s1t2u3",
+    "description": "Clothing",
+    "category": "Clothing",
+    "currency": "USD",
+    "shop": "Fashion Outlet",
+    "date": 1680008700000,
+    "amount": 95.2
+  },
+  {
+    "id": "v4w5x6",
+    "description": "Lunch at work",
+    "category": "Food",
+    "currency": "USD",
+    "shop": "Office Cafeteria",
+    "date": 1708492800000,
+    "amount": 15.5
+  },
+  {
+    "id": "y7z8a9",
+    "description": "Home decorations",
+    "category": "Home",
+    "currency": "USD",
+    "shop": "Home Furnishings Store",
+    "date": 1703930200000,
+    "amount": 120.75
+  },
+  {
+    "id": "b1c2d3",
+    "description": "Gym membership",
+    "category": "Fitness",
+    "currency": "EUR",
+    "shop": "Fitness Center",
+    "date": 1679595600000,
+    "amount": 90.0
+  },
+  {
+    "id": "e4f5g6",
+    "description": "Books",
+    "category": "Books",
+    "currency": "USD",
+    "shop": "Bookstore",
+    "date": 1708901700000,
+    "amount": 40
+  },
+  {
+    "id": "e4f5g6",
+    "description": "Book",
+    "category": "Books",
+    "currency": "USD",
+    "shop": "Bookstore",
+    "date": 1708908700000,
+    "amount": 4
+  },
+  {
+    "id": "h7i8j9",
+    "description": "Electrical repairs",
+    "category": "Home",
+    "currency": "USD",
+    "shop": "Repair Services",
+    "date": 1673030400000,
+    "amount": 200.0
+  },
+  {
+    "id": "k1l2m3",
+    "description": "Car maintenance",
+    "category": "Car",
+    "currency": "GBP",
+    "shop": "Auto Garage",
+    "date": 1704876300000,
+    "amount": 150.0
+  },
+  {
+    "id": "n4o5p6",
+    "description": "Movie tickets",
+    "category": "Entertainment",
+    "currency": "USD",
+    "shop": "Cinema",
+    "date": 1709318400000,
+    "amount": 25.0
+  },
+  {
+    "id": "q7r8s9",
+    "description": "Health supplements",
+    "category": "Health",
+    "currency": "USD",
+    "shop": "Health Store",
+    "date": 1683069000000,
+    "amount": 45.9
+  },
+  {
+    "id": "t1u2v3",
+    "description": "Gifts",
+    "category": "Gifts",
+    "currency": "USD",
+    "shop": "Gift Shop",
+    "date": 1706658000000,
+    "amount": 60.0
+  },
+  {
+    "id": "w4x5y6",
+    "description": "Sporting equipment",
+    "category": "Sports",
+    "currency": "USD",
+    "shop": "Sports Store",
+    "date": 1708171200000,
+    "amount": 85.3
+  },
+  {
+    "id": "z7a8b9",
+    "description": "Dentist appointment",
+    "category": "Health",
+    "currency": "USD",
+    "shop": "Dental Clinic",
+    "date": 1678675200000,
+    "amount": 150.0
+  },
+  {
+    "id": "c1d2e3",
+    "description": "Pet supplies",
+    "category": "Pets",
+    "currency": "EUR",
+    "shop": "Pet Store",
+    "date": 1705518600000,
+    "amount": 40
+  },
+  {
+    "id": "f4g5h6",
+    "description": "Home insurance",
+    "category": "Insurance",
+    "currency": "USD",
+    "shop": "Insurance Company",
+    "date": 1707296400000,
+    "amount": 39.9
+  }
+]
